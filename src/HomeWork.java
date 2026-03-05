@@ -20,7 +20,7 @@ public class HomeWork {
             System.out.print("Seciminizi daxil edin: ");
 
             int choice = scanner.nextInt();
-            scanner.nextLine(); // buffer temizleme
+            scanner.nextLine();
 
             switch (choice) {
 
