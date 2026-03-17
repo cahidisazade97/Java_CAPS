@@ -1,0 +1,4 @@
+// Bir mashin obyekti yaradilmasi lazimdir
+// fields(Marka, Model, Rengi, MotorHecmi, QapiSayi) xususiyyetlerinde
+// Bu obyektin datalarini OOP prinsiplerine uygun daxil edib
+// Main (MashinCom) 1 obyekt yaradib, hemin mashin obyektinden yaradib ekrana cap edin
