@@ -1,4 +1,4 @@
-package OOP;
+package OOP.MashinCom;
 
 public class MashinCom {
     static void main() {

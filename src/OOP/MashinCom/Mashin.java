@@ -1,4 +1,4 @@
-package OOP;
+package OOP.MashinCom;
 
 public class Mashin {
     String marka;
