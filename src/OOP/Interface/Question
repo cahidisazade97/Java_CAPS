@@ -1,0 +1,5 @@
+Kvadrat ve Duzbucaqli siniflerinden ibaret olan
+bir HendesiFiqur(Main) tetbiqi hazirlanmasi istenilir
+Ancaq ki sahesi(Eni*Uzunu) ve perimetri((Eni+Uzunu)*2) mecburi olabilsin deye
+lazim olan arxitekturani(IHendesiFiqur) yaradin
+main-de 2 obyekt ucun de deyer verib ekrana cap edin
