@@ -1,0 +1,7 @@
+1. “Inheritance” ve Polymorphism istifade ederek Person adli baza sinif yaradin.
+2. Bu sinifde ad, soyad, yash saheleri olsun.
+3. Student sinifi bu sinifden miras alsin ve elave olaraq ixtisas sahesi olsun.
+4. Teacher sinifi de miras alsin ve elave olaraq fenn sahesi olsun.
+5. Person sinifinde showInfo() metodu yaradin.
+6. Bu metodu Student ve Teacher siniflerinde override ederek (Polymorphism tetbiq ederek)
+   obyektlerin melumatlarini ozune uygun shekilde seliqeli formada ekrana cixarin.
